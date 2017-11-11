@@ -1,5 +1,5 @@
 # Alfred Subtle-Hacker Theme
-Alfred Subtle-Hacker Theme is based on the [Emacs subtle-hacker theme][1].
+[Alfred][3] Subtle-Hacker Theme is based on the [Emacs subtle-hacker theme][1].
 
 Download and double click on [```Alfred Subtle-Hacker.alfredappearance```][2]. The theme will automatically be imported for you.
 
@@ -12,3 +12,4 @@ Download and double click on [```Alfred Subtle-Hacker.alfredappearance```][2]. T
 
 [1]: https://github.com/emacs-jp/replace-colorthemes/blob/master/subtle-hacker-theme.el
 [2]: https://raw.githubusercontent.com/vookimedlo/alfred-subtle-hacker-theme/master/Alfred%20Subtle-Hacker.alfredappearance
+[3]: https://www.alfredapp.com/
